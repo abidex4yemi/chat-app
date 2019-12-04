@@ -1,9 +1,7 @@
-### What does this PR do?
+#### Description
 
 #### Type of change
 
 #### How Has This Been Tested?
 
-#### Checklist:
-
-#### PT
+#### Checklist
